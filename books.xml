@@ -3,7 +3,7 @@
 <!DOCTYPE bookstore SYSTEM "books.dtd">
 <bookstore>
     <book>
-        <title>Cartography and Network Security (CNS)</title>
+        <title>Cryptography and Network Security (CNS)</title>
         <author>William Stallings</author>
         <isbn>9780134527338</isbn>
         <publisher>Pearson</publisher>
